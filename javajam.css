@@ -1,0 +1,161 @@
+body {
+  background-color: #fcebb6; 
+  color: #211811;
+  font-family: Tahoma, Arial, sans-serif;
+  background-image: url(heroroad.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#wrapper {
+  background-color: #231814;
+  width: 1500px;
+  margin-right: auto;
+  margin-left: auto;
+  box-shadow: 3px 3px 3px;
+  max-width: 1280px;
+  min-width: 900px;
+  align-content: center;
+  padding: 0;
+}
+
+
+header{ 
+  background-image: url(javajamlogo.jpg);
+  background-repeat: no-repeat;
+  padding-left: 240px;
+  color: #231814;
+  background-color: #d2b48c;
+  
+}
+header{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+h1 { 
+   font-size: 3em;
+  color: #8c3826;
+  text-align: center;
+  background-color: #d2b48c;
+  
+}
+nav {
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+h2{
+  color: #8C3826;
+}
+nav a{
+  text-decoration: none;
+}
+footer {
+  
+  padding: 1em;
+  
+  border-top: 2px solid #8C3826;
+  text-align: center;
+  background-color: #d2b48c;
+  font-size: 0.6em;
+}
+h4 { 
+  background-color: #d2b48c;
+  font-size: 1.2em;
+  padding-left: 0.5em;
+  padding-bottom: 0.25em;
+  text-transform: uppercase;
+  padding-top: 1px;
+  border-bottom: 1px solid #d2b48c;
+  clear: left;
+  
+
+}
+nav ul {
+  padding-left: 0;
+  list-style: none;
+}
+.floatleft{
+  padding-left: 2em;
+  padding-bottom: 2em;
+
+}
+.onethird{
+  float: left;
+  width: 30%;
+}
+h3 , dt { 
+  color: #8c3826;
+
+}
+main{
+  padding-left: 0;
+  padding-bottom: 2em;
+  padding-right: 0;
+  display: block;
+  background-color: #fef6c2;
+  overflow: auto;
+  margin-top: 0;
+  margin-left: 200px;
+  overflow: auto;
+  
+
+}
+main h2 h3 h4 p div ul dl {
+
+  padding-left: 3em;
+  padding-right: 2em;
+}
+.details{
+  padding-left: 20%;
+  padding-right: 20%;
+   padding-bottom: 1em;
+   overflow: auto;
+}
+img{
+  padding: 10px 10px;
+
+ }
+
+li{
+  margin-left: 40pt;
+  margin-right: 40pt;
+}
+*{
+  box-sizing: border-box;
+}
+nav{
+  float: left;
+  width: 200px;
+}
+nav a:link{
+  color: #fef6c2;
+
+}
+nav a:link{
+  color: #D2B48C;
+
+}
+nav a:hover{
+  color: #cc9933;
+
+}
+header a:link,
+header a:visited {
+  text-decoration: none; 
+  color: #231814;
+}
+
+header a:hover {
+  color: #FEF6C2; 
+}
+.content{
+  padding-left: 5em;
+}
+
+ 
+  
+  
